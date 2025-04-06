@@ -1325,15 +1325,6 @@
   ],
   "bookmarks": [
     {
-      "cityName": "Folgoso do Courel",
-      "country": "Spain",
-      "countryCode": "ES",
-      "latitude": "42.63875757855843",
-      "longitude": "-7.148641919173783",
-      "host_location": "Folgoso do Courel Spain",
-      "id": 2
-    },
-    {
       "cityName": "Stadtsteinach",
       "country": "Germany",
       "countryCode": "DE",
@@ -1343,13 +1334,13 @@
       "id": 3
     },
     {
-      "cityName": "Dommartin-les-Remiremont",
-      "country": "France",
-      "countryCode": "FR",
-      "latitude": "47.984751524110095",
-      "longitude": "6.688675690824583",
-      "host_location": "Dommartin-les-Remiremont France",
-      "id": 4
+      "cityName": "Neuruppin",
+      "country": "Germany",
+      "countryCode": "DE",
+      "latitude": "52.858351777368036",
+      "longitude": "12.810058593750002",
+      "host_location": "Neuruppin Germany",
+      "id": 5
     }
   ]
 }
