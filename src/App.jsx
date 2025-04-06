@@ -12,7 +12,7 @@ import BookMarkLayout from "./components/BookMarkLayout/BookMarkLayout";
 import BookMarkProvaider from "./components/Context/BookMarkListContext";
 import BookMark from "./components/BookMark/BookMark";
 import SingleBookMark from "./components/singelBookMark/SingleBookMark";
-import AddNewBookMark from "./components/addNewBookMark/AddNewBookMark";
+import AddNewBookMark from "./components/AddNewBookMark/AddNewBookMark";
 import Login from "./components/Login/Login";
 import AuthContextProvider from "./components/Context/AuthProvider";
 import ProtectedRoute from "./components/ProtectedRoute/protectedRoute";
